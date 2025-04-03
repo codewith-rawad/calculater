@@ -2,7 +2,6 @@
 
 A **dual-mode calculator** built with HTML, CSS, and JavaScript. It includes:
 - 🟢 **Basic Calculator** (Standard mode for simple arithmetic operations)
-- 🔵 **Scientific Calculator** (Advanced mode with trigonometric, logarithmic, and exponential functions)
 
 ## 🎯 Features
   
