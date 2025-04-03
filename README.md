@@ -11,9 +11,7 @@ A **dual-mode calculator** built with HTML, CSS, and JavaScript. It includes:
 ✅ **Responsive design** that adapts to all screen sizes.  
 ✅ **Real-time calculations** with instant results.  
 
-## 📸 Screenshots
-### 🟢 Standard Mode
-![Basic Calculator](https://via.placeholder.com/400x300)
+
 
 
 ## 🛠️ Technologies Used
